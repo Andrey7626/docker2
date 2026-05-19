@@ -1,1 +1,2 @@
-![Скриншот 18-05-2026 225006.jpg](../../OneDrive/Desktop/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2018-05-2026%20225006.jpg)
+<img width="1920" height="951" alt="Скриншот-19-05-2026 19_14_01" src="https://github.com/user-attachments/assets/53e9b648-5f4b-4bec-a113-226c6c849b61" />
+
