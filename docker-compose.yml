@@ -1,0 +1,6 @@
+services:
+  java-app:
+    build: ./image
+    image: java-app:3.0
+    ports:
+      - '9999:9999'
